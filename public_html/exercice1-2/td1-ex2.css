@@ -1,0 +1,20 @@
+/* Le fond de l'écran doit être noir */
+body {
+	background-color: black;
+
+	/* Le texte de toute la page en "Arial", gras + blanc */
+	font-family: Arial;
+	font-weight: bold;
+	color: white;
+}
+
+/* Le texte des paragraphes doit être justifié */
+p {
+	text-align: justify;
+}
+
+/* Les images doivent être encadrées en orange avec une épaisseur de 5px */
+img {
+	border: solid orange 5px;
+}
+
